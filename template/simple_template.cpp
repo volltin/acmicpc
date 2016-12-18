@@ -13,7 +13,6 @@
 #include <utility>
 #include <iostream>
 #include <algorithm>
-#define LLD "%lld"
 using namespace std;
 typedef long long LL;
 // for
@@ -32,7 +31,9 @@ typedef pair<int,int> pii;
 #define fi first
 #define se second
 // read & write
-#define IOS_ONLY ios_base::sync_with_stdio(0)
+// time: read < cin < scanf
+#define endl "\n"
+#define IOS_ONLY do{ios_base::sync_with_stdio(false);std::cin.tie(NULL);} while(0)
 template<class T>
 inline void read(T& num) {
     bool start=false,neg=false;
@@ -47,20 +48,33 @@ inline void read(T& num) {
     }
     if(neg) num=-num;
 }
+// function
+inline int pow2(int x) {
+    return x * x;
+}
+inline LL mulmod(LL x, LL y, LL p) {
+	// x * y % p
+	LL ret = 0;
+	for(; y; y >>= 1) {
+		if(y & 1)ret = (ret + x) % p;
+		x = (x + x) % p;
+	}
+	return ret;
+}
 // const number
 const int MOD = int(1e9)+7;
 const int maxn = (int)1.01e5;
 const int maxm = (int)1.01e5;
 /* template end */
 
-int a[maxn];
 int n;
+int a[maxn];
 
 int main() {
+	IOS_ONLY;
 	int T = 1;
-	//read(T);
+	//cin >> T;
 	rep(kase,1,T){
-		read(n);
-
+		cin >> n;
 	}
 }
