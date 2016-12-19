@@ -12,7 +12,9 @@
 
 ***
 #未完成题目
-1. [Codeforces Round #387 (Div. 2) f](http://codeforces.com/contest/747/problem/F)
+1. [Codeforces Round #387 (Div. 2) F](http://codeforces.com/contest/747/problem/F)
+2. [Codeforces Round #384 (Div. 2) E](http://codeforces.com/contest/743/problem/E)
+3. [Codeforces Round #382 (Div. 1) C](http://codeforces.com/contest/736/problem/C)
 
 #已完成题目
 
