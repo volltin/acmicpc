@@ -27,7 +27,7 @@
   * KMP
 * 数论
   * [快速乘和快速幂](kuai-su-cheng-he-kuai-su-mi.md)
-  * 逆元
+  * [逆元](ni-yuan.md)
   * 组合数取模
   * 扩展欧几里得
   * 线性不定方程
