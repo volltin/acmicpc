@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Introduction](Readme.md)
+
 * [TODO](todo.md)
 * [注意事项](zhu-yi-shi-xiang.md)
 * 基础知识
