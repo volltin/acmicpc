@@ -4,9 +4,9 @@
 
 **一、M 为质数，费马小定理：**
 
-$$a^(M-1) === 1 \mod M$$
+$$a^{(M-1)} === 1 \mod M$$
 
-$$a * a^(M-2) === 1 \mod M$$
+$$a * a^{(M-2)} === 1 \mod M$$
 
 $$inv(a) := a^{(M-2)}$$
 
@@ -14,7 +14,7 @@ $$inv(a) := a^{(M-2)}$$
 
 **二、M 不为质数，但是 $$gcd(a, M) = 1$$，用扩展欧几里得（注意处理正负）：**
 
-$$ax + My \equiv gcd(a, M)\equiv 1$$
+$$ax + My \equiv gcd(a, M)\equiv 1 \mod M$$
 
 $$ax \equiv 1 \mod M$$
 
