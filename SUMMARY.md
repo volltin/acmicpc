@@ -1,10 +1,11 @@
 # Summary
 
+* [Introduction](README.md)
 * [Introduction](Readme.md)
 * [TODO](todo.md)
 * [注意事项](zhu-yi-shi-xiang.md)
 * 基础知识
-  * 读入输出
+  * [读入输出](du-ru-shu-chu.md)
 * 动态规划
   * 数位 DP
 * 数据结构
@@ -16,12 +17,6 @@
 * 图论
   * 欧拉路径
   * 拓扑排序
-* * 强联通分量
-  * 二连通分量
-  * 最小生成树
-  * 最近公共祖先
-  * 最短路
-  * 次短路
 * 网络流
   * 最大流
   * 费用流
@@ -52,6 +47,4 @@
   * 可持久化
 * 调试技巧
   * Python
-
-
 
