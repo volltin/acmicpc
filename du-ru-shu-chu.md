@@ -26,6 +26,18 @@ inline void read(T& num) {
 }
 ```
 
+## 加速 cin
+
+```cpp
+#define endl "\n"
+#define IOS_ONLY do{ios_base::sync_with_stdio(false);std::cin.tie(NULL);} while(0)
+
+int main()
+{
+    IOS_ONLY;
+}
+```
+
 
 
 
