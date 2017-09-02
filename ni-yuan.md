@@ -58,9 +58,9 @@ inv(i) := (M - M / i) * inv(M % i) % M
 
 exgcd 先求出所有素数逆元 inv(pi)，预处理的时间复杂度是 O(n / logn * logn) = O(n)
 
-然后用唯一分解的方法求任意数逆元
+然后用唯一$a$分解的方法求任意数逆元
 
-inv(n) := \prod{inv(pi)^ai}
+$inv(n) := \prod{inv(pi)^{a_i}}$
 
 
 
@@ -68,9 +68,9 @@ inv(n) := \prod{inv(pi)^ai}
 
 **M 为素数**
 
-记p = M，n=sp + q , m=tp + r (q, r <= p)
+记$p = M，n=sp + q , m=tp + r (q, r <= p)​$
 
-C(n, m) = C(sp + q, tp + r) = C(s, t) * C(q, r) (mod p)
+$C(n, m) = C(sp + q, tp + r) = C(s, t) * C(q, r) \mod p$
 
 即：C(n,m) % p = C(n/p, m/p) * C(n%p, m%p) % p
 
