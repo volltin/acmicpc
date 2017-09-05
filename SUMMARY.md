@@ -1,16 +1,15 @@
 # Summary
 
 * [Introduction](README.md)
-
 * [TODO](todo.md)
 * [注意事项](zhu-yi-shi-xiang.md)
-* 基础知识
+* [基础知识](ji-chu-zhi-shi.md)
   * [读入输出](du-ru-shu-chu.md)
-* 动态规划
+* [动态规划](dong-tai-gui-hua.md)
   * 数位 DP
 * 数据结构
-  * 并查集
-  * 树状数组
+  * [并查集](bing-cha-ji.md)
+  * [树状数组](shu-zhuang-shu-zu.md)
   * 线段树
   * 平衡树
   * 字典树
@@ -44,6 +43,4 @@
   * 可持久化
 * 其他
   * Java
-
-
 
