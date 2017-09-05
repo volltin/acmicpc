@@ -32,7 +32,7 @@ int main(int argc, const char * argv[]) {
         if (j == lenb) {
             cout << i - j + 1 << endl;
             break;
-            //j = kmpnext[j - 1];
+            //j = kmpnext[j - 1]; //用于需要寻找多次匹配统计次数的手动回溯
         }
     }
     return 0;
