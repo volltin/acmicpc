@@ -6,16 +6,16 @@
 * [基础知识](ji-chu-zhi-shi.md)
   * [读入输出](du-ru-shu-chu.md)
 * [动态规划](dong-tai-gui-hua.md)
-  * 数位 DP
+  * [数位 DP](dong-tai-gui-hua/shu-wei-dp.md)
 * 数据结构
   * [并查集](bing-cha-ji.md)
   * [树状数组](shu-zhuang-shu-zu.md)
   * 线段树
-  * 平衡树
+  * [平衡树](ping-heng-shu.md)
   * 字典树
-* 图论
-  * 欧拉路径
-  * 拓扑排序
+* [图论](tu-lun.md)
+  * [欧拉路径](tu-lun/ou-la-lu-jing.md)
+  * [拓扑排序](tu-lun/tuo-pu-pai-xu.md)
 * 网络流
   * 最大流
   * 费用流
@@ -38,9 +38,10 @@
   * 组合数学
     * 母函数
     * 容斥原理
-  * 常用公式
+  * [常用公式](shu-xue/chang-yong-gong-shi.md)
+  * [博弈论](shu-xue/bo-yi-lun.md)
 * STL 相关
-  * 可持久化
+  * [可持久化](ke-chi-jiu-hua.md)
 * 其他
   * Java
 
