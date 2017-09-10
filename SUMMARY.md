@@ -11,7 +11,7 @@
   * [并查集](bing-cha-ji.md)
   * [树状数组](shu-zhuang-shu-zu.md)
   * [线段树](xian-duan-shu.md)
-  * 主席树
+  * [主席树](zhu-xi-shu.md)
   * [平衡树](ping-heng-shu.md)
   * 字典树
 * [图论](tu-lun.md)

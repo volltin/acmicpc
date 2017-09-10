@@ -26,6 +26,30 @@ inline void read(T& num) {
 }
 ```
 
+## 超级快速读入
+
+```cpp
+const int File_Length=1<<27;//可以修改，表示输入文件不会超过的长度
+char buf[File_Length],*inf=buf;
+int read(){//这是一个读不进负数的数字读入
+    int k=0;
+    while(!isdigit(*inf))++inf;
+    while(isdigit(*inf)){
+        k=k*10+(*inf-'0');
+        ++inf;
+    }
+    return k;
+}
+int main(){
+    //freopen(***); //开文件必须在fread前面
+    fread(buf, 1, N, stdin);//读入整个输入文件
+    *****
+    return 0;
+}
+```
+
+
+
 ## 加速 cin
 
 ```cpp
