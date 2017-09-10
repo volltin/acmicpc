@@ -59,7 +59,7 @@ int main()
    build_height();
    rep(i,1,n) printf(i==1?"%d":" %d", sa[i]+1); puts("");
    rep(i,2,n) printf(i==2?"%d":" %d", height[i]); puts("");
-}排名为 ii 的后缀的第一个字符在原串中的位置。
+}
 ```
 
 
