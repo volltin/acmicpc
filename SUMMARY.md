@@ -21,8 +21,8 @@
   * 最大流
   * 费用流
   * 最小割
-* 字符串
-  * 后缀数组
+* [字符串](zi-fu-chuan.md)
+  * [后缀数组](hou-zhui-shu-zu.md)
   * 回文树
   * [KMP](kmp.md)
 * 计算几何
@@ -45,6 +45,4 @@
   * [可持久化](ke-chi-jiu-hua.md)
 * 其他
   * Java
-
-
 
