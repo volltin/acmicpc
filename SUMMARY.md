@@ -13,7 +13,7 @@
   * [线段树](xian-duan-shu.md)
   * [主席树](zhu-xi-shu.md)
   * [平衡树](ping-heng-shu.md)
-  * 字典树
+  * [字典树](zi-dian-shu.md)
 * [图论](tu-lun.md)
   * [欧拉路径](tu-lun/ou-la-lu-jing.md)
   * [拓扑排序](tu-lun/tuo-pu-pai-xu.md)
@@ -21,9 +21,10 @@
   * 最大流
   * 费用流
   * 最小割
+  * [二分图匹配](er-fen-tu-pi-pei.md)
 * [字符串](zi-fu-chuan.md)
   * [后缀数组](hou-zhui-shu-zu.md)
-  * 回文树
+  * [回文树](hui-wen-shu.md)
   * [KMP](kmp.md)
 * 计算几何
   * 凸包
@@ -31,9 +32,9 @@
   * 数论
     * [快速乘和快速幂](kuai-su-cheng-he-kuai-su-mi.md)
     * [逆元](ni-yuan.md)
-    * 组合数取模
-    * 扩展欧几里得
-    * 线性不定方程
+    * [组合数取模](zu-he-shu-qu-mo.md)
+    * [扩展欧几里得](kuo-zhan-ou-ji-li-de.md)
+    * [线性不定方程](xian-xing-bu-ding-fang-cheng.md)
     * 素数筛
     * 中国剩余定理
   * 组合数学
