@@ -1,6 +1,6 @@
 # 注意事项
 
-* 偷懒用set写优先队列要用multiset
+* 偷懒用set写优先队列要用multiset \(可是，为什么不直接用priority	\_queue？\)
 * multiset 和 multimap erase 某个值的时候会把这个值所有的都删掉，若想要只删掉一个，先 find 再删
 * 二分答案做某些题把输入数据 sort 后会快一些，或者某些值不加完直接 return 也会快很多
 * 调试时改小的数据范围，交的时候要记得改回来，数据范围记得 +1 
