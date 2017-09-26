@@ -1,3 +1,5 @@
+
+
 ```
 //一维
 #define lowbit(x) (x&(-x))
@@ -45,7 +47,6 @@ void change(int i, int j, int p) {
         }
     }
 }
-
 ```
 
 

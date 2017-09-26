@@ -7,7 +7,7 @@
   * [读入输出](du-ru-shu-chu.md)
 * [动态规划](dong-tai-gui-hua.md)
   * [数位 DP](dong-tai-gui-hua/shu-wei-dp.md)
-* 数据结构
+* [数据结构](shu-ju-jie-gou.md)
   * [并查集](bing-cha-ji.md)
   * [树状数组](shu-zhuang-shu-zu.md)
   * [线段树](xian-duan-shu.md)
@@ -18,7 +18,7 @@
   * [欧拉路径](tu-lun/ou-la-lu-jing.md)
   * [拓扑排序](tu-lun/tuo-pu-pai-xu.md)
 * 网络流
-  * 最大流
+  * [最大流](zui-da-liu.md)
   * 费用流
   * 最小割
   * [二分图匹配](er-fen-tu-pi-pei.md)
