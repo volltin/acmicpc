@@ -106,9 +106,9 @@ inline void init(int rangeST, int rangeED){  //每个数据先调用init，无�
 }
 ```
 
-
-
 例：POJ 2104
+
+给定n个数字，m次询问，询问区间k大。
 
 ```cpp
 const int maxn = 100050;
