@@ -108,3 +108,40 @@ inline void init(int rangeST, int rangeED){  //每个数据先调用init，无�
 
 
 
+例：POJ 2104
+
+```cpp
+const int maxn = 100050;
+int a[maxn];
+std::vector<int> uni;
+
+inline int r(int k){
+    return lower_bound(uni.begin(),uni.end(),k)-uni.begin();
+}
+
+int main(int argn, char* argv[]){
+    int n,m;
+    scanf("%d%d",&n,&m);
+    for(int i = 1; i <= n; i++){
+        scanf("%d",&a[i]);
+        uni.push_back(a[i]);
+    }
+    sort(uni.begin(),uni.end());
+    uni.erase(unique(uni.begin(),uni.end()),uni.end());
+
+    init(1,n);
+    for(int i=1;i<=n;i++)
+        change(r(a[i])+1,1);
+
+    for(int i=0;i<m;i++){
+        int l,r,k;
+        scanf("%d%d%d",&l,&r,&k);
+        printf("%d\n",uni[query(root[r],root[l-1],k)-1]);
+    }
+
+    return 0;
+}
+```
+
+
+
