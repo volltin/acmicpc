@@ -5,6 +5,7 @@
 * [注意事项](zhu-yi-shi-xiang.md)
 * [基础知识](ji-chu-zhi-shi.md)
   * [读入输出](du-ru-shu-chu.md)
+  * [离散化](li-san-hua.md)
 * [动态规划](dong-tai-gui-hua.md)
   * [数位 DP](dong-tai-gui-hua/shu-wei-dp.md)
 * [数据结构](shu-ju-jie-gou.md)
