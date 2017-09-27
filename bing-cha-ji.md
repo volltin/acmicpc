@@ -1,3 +1,5 @@
+# 并查集
+
 ```
 int father[MAXN];
 

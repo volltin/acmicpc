@@ -20,8 +20,8 @@
   * [拓扑排序](tu-lun/tuo-pu-pai-xu.md)
 * 网络流
   * [最大流](zui-da-liu.md)
-  * 费用流
-  * 最小割
+  * [费用流](fei-yong-liu.md)
+  * [最小割](zui-xiao-ge.md)
   * [二分图匹配](er-fen-tu-pi-pei.md)
 * [字符串](zi-fu-chuan.md)
   * [后缀数组](hou-zhui-shu-zu.md)
