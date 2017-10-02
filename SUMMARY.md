@@ -39,8 +39,8 @@
     * [素数筛](su-shu-shai.md)
     * [中国剩余定理](zhong-guo-sheng-yu-ding-li.md)
   * 组合数学
-    * 母函数
-    * 容斥原理
+    * [母函数](shu-xue/mu-han-shu.md)
+    * [容斥原理](shu-xue/rong-chi-yuan-li.md)
   * [常用公式](shu-xue/chang-yong-gong-shi.md)
   * [博弈论](shu-xue/bo-yi-lun.md)
 * STL 相关
