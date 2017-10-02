@@ -18,7 +18,7 @@
 * [图论](tu-lun.md)
   * [欧拉路径](tu-lun/ou-la-lu-jing.md)
   * [拓扑排序](tu-lun/tuo-pu-pai-xu.md)
-* 网络流
+* [网络流](wang-luo-liu.md)
   * [最大流](zui-da-liu.md)
   * [费用流](fei-yong-liu.md)
   * [最小割](zui-xiao-ge.md)
@@ -28,16 +28,16 @@
   * [回文树](hui-wen-shu.md)
   * [KMP](kmp.md)
 * 计算几何
-  * 凸包
+  * [凸包](tu-bao.md)
 * [数学](shu-xue.md)
-  * 数论
+  * [数论](shu-xue/shu-lun.md)
     * [快速乘和快速幂](kuai-su-cheng-he-kuai-su-mi.md)
     * [逆元](ni-yuan.md)
     * [组合数取模](zu-he-shu-qu-mo.md)
     * [扩展欧几里得](kuo-zhan-ou-ji-li-de.md)
     * [线性不定方程](xian-xing-bu-ding-fang-cheng.md)
-    * 素数筛
-    * 中国剩余定理
+    * [素数筛](su-shu-shai.md)
+    * [中国剩余定理](zhong-guo-sheng-yu-ding-li.md)
   * 组合数学
     * 母函数
     * 容斥原理
