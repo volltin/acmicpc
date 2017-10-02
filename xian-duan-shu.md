@@ -5,7 +5,7 @@ const int MAXRANGE = 100050;    //范围[1,MAXRANGE]
 int maxt[MAXRANGE*8];
 int lazy[MAXRANGE*8];
 
-inline void update(int t,int l,int r)
+inline void update(int t,int l,int r)    //push标记，注意push后子节点答案先更新，本节点答案不变
 {
     lazy[t<<1]+=lazy[t];
     lazy[t<<1|1]+=lazy[t];
@@ -54,7 +54,6 @@ int query(int t,int l,int r,int L,int R)    //询问max[L,R]
         );
     }
 }
-
 ```
 
 
