@@ -15,6 +15,7 @@
   * [主席树](zhu-xi-shu.md)
   * [平衡树](ping-heng-shu.md)
   * [字典树](zi-dian-shu.md)
+  * [莫队算法](mo-dui-suan-fa.md)
 * [图论](tu-lun.md)
   * [欧拉路径](tu-lun/ou-la-lu-jing.md)
   * [拓扑排序](tu-lun/tuo-pu-pai-xu.md)
@@ -27,8 +28,9 @@
   * [后缀数组](hou-zhui-shu-zu.md)
   * [回文树](hui-wen-shu.md)
   * [KMP](kmp.md)
-* 计算几何
+* [计算几何](ji-suan-ji-he.md)
   * [凸包](tu-bao.md)
+  * [基本函数](ji-ben-han-shu.md)
 * [数学](shu-xue.md)
   * [数论](shu-xue/shu-lun.md)
     * [快速乘和快速幂](kuai-su-cheng-he-kuai-su-mi.md)
@@ -38,6 +40,7 @@
     * [线性不定方程](xian-xing-bu-ding-fang-cheng.md)
     * [素数筛](su-shu-shai.md)
     * [中国剩余定理](zhong-guo-sheng-yu-ding-li.md)
+    * [常用函数](chang-yong-han-shu.md)
   * 组合数学
     * [母函数](shu-xue/mu-han-shu.md)
     * [容斥原理](shu-xue/rong-chi-yuan-li.md)
