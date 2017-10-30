@@ -54,7 +54,7 @@ void build_height()
 int main()
 {
    scanf("%s", s);
-   n = strlen(s)+1;
+   n = (int)strlen(s)+1;
    build_sa();
    build_height();
    rep(i,1,n) printf(i==1?"%d":" %d", sa[i]+1); puts("");
